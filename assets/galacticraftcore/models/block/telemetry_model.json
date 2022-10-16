@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "galacticraftcore:blocks/machine",
+        "down": "galacticraftcore:blocks/machine",
+        "up": "galacticraftcore:blocks/machine",
+        "north": "galacticraftcore:blocks/telemetry_unit",
+        "east": "galacticraftcore:blocks/telemetry_unit",
+        "south": "galacticraftcore:blocks/telemetry_unit",
+        "west": "galacticraftcore:blocks/telemetry_unit"
+    }
+}

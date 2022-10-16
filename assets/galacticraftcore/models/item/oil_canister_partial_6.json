@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "galacticraftcore:items/oil_canister_6"
+	},
+	"overrides": [
+		{ "predicate": { "damage": 0 }, "model": "galacticraftcore:item/oil_canister_partial_6" },
+		{ "predicate": { "damaged": 1, "damage": 0.142857142857143 }, "model": "galacticraftcore:item/oil_canister_partial_5" },
+		{ "predicate": { "damaged": 1, "damage": 0.285714285714286 }, "model": "galacticraftcore:item/oil_canister_partial_4" },
+		{ "predicate": { "damaged": 1, "damage": 0.428571428571429 }, "model": "galacticraftcore:item/oil_canister_partial_3" },
+		{ "predicate": { "damaged": 1, "damage": 0.571428571428571 }, "model": "galacticraftcore:item/oil_canister_partial_2" },
+		{ "predicate": { "damaged": 1, "damage": 0.714285714285714 }, "model": "galacticraftcore:item/oil_canister_partial_1" },
+		{ "predicate": { "damaged": 1, "damage": 0.857142857142857 }, "model": "galacticraftcore:item/empty_liquid_canister"}
+	]
+}

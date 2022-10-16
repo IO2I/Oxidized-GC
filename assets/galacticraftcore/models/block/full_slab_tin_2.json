@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+		"end": "galacticraftcore:blocks/deco_block",
+		"side": "galacticraftcore:blocks/deco_block_slab"
+    }
+}

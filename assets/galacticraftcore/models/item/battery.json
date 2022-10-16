@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "galacticraftcore:items/battery"
+	},
+	"overrides": [
+		{ "predicate": { "damage": 0 }, "model": "galacticraftcore:item/battery" },
+		{ "predicate": { "damaged": 1, "damage": 1}, "model": "galacticraftcore:item/battery_dead" }
+	]
+}
