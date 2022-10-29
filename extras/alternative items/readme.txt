@@ -1,5 +1,5 @@
 ====description====
-A couple of 3d item models if you prefer them over the sprites 
+A couple of alternative item models/textures if you prefer them over the default ones
 
 ====Installation====
 Copy the assets folder to the main Oxidized GC directory and replace all existing files.
